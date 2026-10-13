@@ -1,6 +1,6 @@
-Libraries imported are as followed(unsure which come pre-installed):
+Libraries imported are as followed(unsure which come pre-installed):<br>
 NumPy <br>
-sys
-time
-pygame
-random
+sys<br>
+time<br>
+pygame<br>
+random<br>
