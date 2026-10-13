@@ -1,5 +1,5 @@
 Libraries imported are as followed(unsure which come pre-installed):
-NumPy\n
+NumPy <br>
 sys
 time
 pygame
